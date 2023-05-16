@@ -1,0 +1,29 @@
+.rodape {
+  background-color: #6278f7;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 62px;
+}
+
+.rodape div a {
+  padding: 15px;
+}
+
+.rodape p {
+  color: white;
+}
+
+.rodape p a {
+  color: white;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+.rodape a:hover {
+  color: rgb(222, 222, 222);
+}
+
+.rodape img:hover {
+  opacity: 0.4;
+}
